@@ -1,0 +1,8 @@
+C:\Gits\Smart Device C# Firmware Info Write\FWWrite\bin\Debug\FWWrite.exe
+C:\Gits\Smart Device C# Firmware Info Write\FWWrite\bin\Debug\FWWrite.pdb
+C:\Gits\Smart Device C# Firmware Info Write\FWWrite\obj\Debug\ResolveAssemblyReference.cache
+C:\Gits\Smart Device C# Firmware Info Write\FWWrite\obj\Debug\WRITE_REGINFO.FWWrite.resources
+C:\Gits\Smart Device C# Firmware Info Write\FWWrite\obj\Debug\FWWrite.Properties.Resources.resources
+C:\Gits\Smart Device C# Firmware Info Write\FWWrite\obj\Debug\FWWrite.csproj.GenerateResource.Cache
+C:\Gits\Smart Device C# Firmware Info Write\FWWrite\obj\Debug\FWWrite.exe
+C:\Gits\Smart Device C# Firmware Info Write\FWWrite\obj\Debug\FWWrite.pdb
